@@ -1,4 +1,4 @@
-# Projeto Lixeira Inteligente para Motivação à Reciclagem
+# Projeto Lixeira Inteligente ReUse
 
 Bem-vindo ao projeto da Lixeira Inteligente, uma inovação destinada a incentivar a reciclagem e promover a consciência ambiental. Este sistema, construído utilizando Arduino, ESP32 e uma variedade de componentes eletrônicos, transforma a simples ação de descartar resíduos em uma experiência interativa e educativa.
 
